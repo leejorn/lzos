@@ -1,3 +1,0 @@
-del ..\z_tools\qemu\fdimage0.bin
-copy lzos.img ..\z_tools\qemu\fdimage0.bin
-..\z_tools\make.exe	-C ../z_tools/qemu
